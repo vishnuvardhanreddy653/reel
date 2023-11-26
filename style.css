@@ -1,0 +1,71 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css");
+
+.body{
+    /* background-color: black; */
+}
+
+.reelcontainer{
+    width: 400px;
+    /* background-color:blue; */
+    padding: 5px;
+    margin: 10px auto;
+}
+.profilesection{
+    /* background-color: white; */
+    /* height: 50px; */
+    width: 100%;
+    padding: 5px;
+    justify-content: space-between;
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    
+}
+.nameandimg-container{
+    /* background-color: pink; */
+    /* width: 140px; */
+    /* height: 30px; */
+    display: flex;
+    justify-content: space-between;'
+    width: 150px;
+    align-items: center;
+    
+}
+.dots-container{
+    width: 25px;
+    height: 25px;
+    color:black
+    
+}
+.image{
+    width:45px;
+    height: 45px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+.des{
+    margin-top: -20px;
+}
+.video{
+    width: 100%;
+    height: 550px;
+    object-fit: cover;
+}
+.flex-container{
+    /* background-color: blue; */
+    width: 100p%;
+    display: flex;
+    justify-content:space-between;
+    
+
+}
+.icons-3{
+    background-color: white;
+    width: 120px;
+    display: flex;
+    justify-content: space-between;
+    /* margin: -5px; */
+}
+.ico{
+    font-size:30px;
+}
